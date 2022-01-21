@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348087828398",
+    "project_id": "fir-gallery-a9d4f",
+    "storage_bucket": "fir-gallery-a9d4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348087828398:android:0f88d52eb780037a4c123f",
+        "android_client_info": {
+          "package_name": "com.example.firebasegallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348087828398-tbvqbpu1mgfshr9p6uof7olcgqahldqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLsFASfRQ-WEZTvC6O93CqOjhVVJiCROE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348087828398-tbvqbpu1mgfshr9p6uof7olcgqahldqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
