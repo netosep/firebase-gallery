@@ -40,12 +40,10 @@
   <table>
     <tr>
       <td align="center"><a target="_blank" href="https://github.com/cleitondcarmo">Cleiton do Carmo</a></td>
-      <td align="center"><a target="_blank" href="https://github.com/lucasamuel">Lucas Samuel</a></td align="center">
       <td align="center"><a target="_blank" href="https://github.com/netosep">Neto Sepulveda</a></td>
     </tr>
     <tr>
       <td align="center"><a target="_blank" href="https://github.com/cleitondcarmo"><img src="https://github.com/cleitondcarmo.png?size=70"></a></td>
-      <td align="center"><a target="_blank" href="https://github.com/lucasamuel"><img src="https://github.com/lucasamuel.png?size=70"></a></td>
       <td align="center"><a target="_blank" href="https://github.com/netosep"><img src="https://github.com/netosep.png?size=70"></a></td>
     </tr>
   </table>
